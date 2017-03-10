@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 new xxx
 one
 two
 three
 enen
 >>>>>>> feature
+=======
+¹ş¹ş¹ş
+fix
+
+???
+>>>>>>> dev
